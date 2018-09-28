@@ -190,12 +190,6 @@ a:hover{
   margin-bottom: 15px;
 }
 
-.thumbnail {
-  display: block;
-  max-width: 90%;
-  margin: 20px auto 1rem;
-}
-
 .boxed {
   padding: 35px 35px;
   margin: 15px;
@@ -205,24 +199,6 @@ a:hover{
   border-radius: 5px;
 }
 
-h1 {
-  margin-top: 20px;
-}
-
-li {
-  margin-left: -10px;
-}
-
-
-.adjacent {
-  padding: 20px 4%;
-  margin: 20px 15px;
-}
-
-.centered {
-  margin: 0 auto;
-  text-align: center;
-}
 
 .stack {
   margin: 30px 7%;
