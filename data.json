@@ -1,0 +1,116 @@
+{
+    "projects":
+    [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Randomly cycles through quotes, displaying them in-browser.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://jordan-m-stokes.github.io/techdegree-project-1/",
+            "github_link": "https://github.com/jordan-m-stokes/techdegree-project-1/",
+            "image_urls": 
+            {
+                "source": "projects/project-01/",
+                "thumbnail": "thumbnail.png",
+                "shots": 
+                [
+                    "shot-0.png",
+                    "shot-1.png",
+                    "shot-2.png"
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "project_name": "Pagination & Content Filter",
+            "description": "A project that allows filtering through a directory of people.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://jordan-m-stokes.github.io/techdegree-project-2/",
+            "github_link": "https://github.com/jordan-m-stokes/techdegree-project-2/",
+            "image_urls": 
+            {
+                "source": "projects/project-02/",
+                "thumbnail": "thumbnail.png",
+                "shots": 
+                [
+                    "shot-0.png"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "An interactive form that ensures all fields are correctly entered before allowing submission.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://jordan-m-stokes.github.io/techdegree-project-3/",
+            "github_link": "https://github.com/jordan-m-stokes/techdegree-project-3/",
+            "image_urls":
+            {                 
+                "source": "projects/project-03/",                 
+                "thumbnail": "thumbnail.png",                 
+                "shots":                  
+                [                     
+                    "shot-0.png",                     
+                    "shot-1.png",                     
+                    "shot-2.png"                 
+                ]             
+            }
+        },
+        {
+            "id": 3,
+            "project_name": "Tic-Tac-Toe",
+            "description": "A game that allows the playing of Tic-Tac-Toe in multiplayer or optionaly, with an AI.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://jordan-m-stokes.github.io/techdegree-project-4/",
+            "github_link": "https://github.com/jordan-m-stokes/techdegree-project-4/",
+            "image_urls":
+            {                 
+                "source": "projects/project-04/",                 
+                "thumbnail": "thumbnail.png",                 
+                "shots":                  
+                [                     
+                    "shot-0.png",                     
+                    "shot-1.png",                     
+                    "shot-2.png"                 
+                ]             
+            }
+        },
+        {
+            "id": 4,
+            "project_name": "Employee Directory",
+            "description": "A directory that connects to an API to generate random employees to display to the user, whom can then filter and view employees, and their info.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://jordan-m-stokes.github.io/techdegree-project-5/",
+            "github_link": "https://github.com/jordan-m-stokes/techdegree-project-5/",
+            "image_urls":
+            {                 
+                "source": "projects/project-05/",                 
+                "thumbnail": "thumbnail.png",                 
+                "shots":                  
+                [                     
+                    "shot-0.png",                     
+                    "shot-1.png",                     
+                    "shot-2.png"                 
+                ]             
+            }
+        },
+        {
+            "id": 5,
+            "project_name": "Content Scraper",
+            "description": "A command-line program that scrapes a website for data, and stores said data in a CSV file.",
+            "technologies": ["JavaScript", "NodeJS", "NPM", "Cheerio (NPM)"],
+            "live_link": "",
+            "github_link": "https://github.com/jordan-m-stokes/techdegree-project-6/",
+            "image_urls":
+            {                 
+                "source": "projects/project-06/",                 
+                "thumbnail": "thumbnail.png",                 
+                "shots":                  
+                [                     
+                    "shot-0.png",                     
+                    "shot-1.png"           
+                ]             
+            }
+        }
+    ]
+}
